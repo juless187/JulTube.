@@ -1,0 +1,59 @@
+<html lang="pt-br">
+<link rel=" stylesheet" href="styles.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap" rel="stylesheet">
+<title>AluraTube</title>
+</head>
+
+<body>
+
+    <header>ALURATUBE</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>Liniker - CAJU </h1>
+            <p>#MPBR&B </p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9nbYJm9FYa0?si=afjp9aof30y5_f_r"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Músicas e Dança</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/watch?v=FPqDd_fJmSs">
+            <img src="https://img.youtube.com/vi/FPqDd_fJmSs/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=lyvuUPvrP4c"></a>
+            <img src="https://img.youtube.com/vi/lyvuUPvrP4c/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=JCJKq2-l0Z0"></a>
+            <img src="https://img.youtube.com/vi/JCJKq2-l0Z0/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=0q3K6FPzY18"></a>
+            <img src="https://img.youtube.com/vi/0q3K6FPzY18/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=mbwUs1rnuQg"></a>
+            <img src="https://img.youtube.com/vi/mbwUs1rnuQg/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=EqUHnojFH5Y"></a>
+            <img src="https://img.youtube.com/vi/EqUHnojFH5Y/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=jBCCCkaBBJ4"></a>
+            <img src="https://img.youtube.com/vi/jBCCCkaBBJ4/maxresdefault.jpg" />
+        </a>
+        </div>
+    </section>
+    
+
+</body>
+
+
+
+</html>
